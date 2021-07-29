@@ -1,0 +1,6 @@
+config.esb
+{
+ArrayList <String> Slider = { System Microsoft|Edge spotify }
+Boolean debug = false
+String portName = ttyACM0
+}
